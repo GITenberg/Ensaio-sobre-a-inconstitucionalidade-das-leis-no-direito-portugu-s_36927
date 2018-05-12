@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38539'
     url: http://www.gutenberg.org/2009/agents/38539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36927#Ensaio-sobre-a-inconstitucionalidade-das-leis-no-direito-portugu-s
 gutenberg_issued: '2011-07-31'
 gutenberg_type: Text
 identifiers:
